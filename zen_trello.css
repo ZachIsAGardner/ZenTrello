@@ -1,0 +1,100 @@
+/* ANYWHERE */
+
+/* Dividers */
+.board-header-btn-divider {
+    display: none !important;
+}
+
+/* Assume anything that is .disabled is an upsell */
+.disabled {
+    display: none !important;
+}
+
+/* NAVBAR */
+
+/* Navbar */
+.pr1necVvi4UYAj {
+    display: none !important;
+}
+
+/* Create Buttons */
+/* .Jq8R8MZFmi7RPq {
+    display: none !important;
+} */
+
+/* CARD DETAILS */
+
+/* Custom Fields Upgrade Now */
+.js-card-back-custom-fields-prompt {
+    display: none !important;
+}
+
+/* Custom Fields Button */
+.js-cf-disabled {
+    display: none !important;
+}
+
+/* Hide Up Sell Disabled Buttons */
+li:has(.board-menu-pill-upgrade) {
+    display: none !important;
+}
+
+/* Plugins */
+.js-plugin-buttons {
+    display: none !important;
+}
+
+/* LEFT SIDEBAR */
+
+/* Try Premium Free */
+.romvw9Ewjj9lXM {
+    display: none !important;
+}
+
+/* LEFT */
+
+/* permision */
+#permission-level {
+    display: none !important;
+}
+
+/* boarder switcher */
+.js-board-views-switcher {
+    display: none !important;
+}
+
+/* star */
+.board-header-star-container {
+    display: none !important;
+}
+
+/* RIGHT */
+
+/* power-ups */
+.board-header-btns.mod-right > span:nth-child(6) {
+    display: none !important;
+}
+
+/* automation */
+.board-header-btns.mod-right > span:nth-child(7) {
+    display: none !important;
+}
+
+/* account+share */
+.board-header-btns.mod-right > span:nth-child(11) {
+    display: none !important;
+}
+
+/* FILTERS */
+
+/* Hide these, just cause I don't use them :) */
+
+/* Members */
+.q2PzD_Dkq1FVX3 > div:nth-child(4) {
+    display: none !important;
+}
+
+/* Due date */
+.q2PzD_Dkq1FVX3 > div:nth-child(5) {
+    display: none !important;
+}
