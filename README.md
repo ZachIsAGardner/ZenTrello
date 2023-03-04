@@ -1,4 +1,4 @@
-# Trello Zen
+# Zen Trello
 
 Makes Trello less annoying.
 
