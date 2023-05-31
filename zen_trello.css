@@ -12,8 +12,23 @@
 
 /* NAVBAR */
 
-/* Navbar */
+/* Top Navbar */
 .pr1necVvi4UYAj {
+    display: none !important;
+}
+
+/* Workspace View */
+.clF9_b5nMUvjxu {
+    display: none !important;
+}
+
+/* Workspace Visiblity */
+.QHRrOb3aQ4nhJI {
+    display: none !important;
+}
+
+/* Power-Ups, Automation */
+.board-header-btns {
     display: none !important;
 }
 
